@@ -1,0 +1,96 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="PyPackageRequirementsInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredPackages">
+        <value>
+          <list size="10">
+            <item index="0" class="java.lang.String" itemvalue="environs" />
+            <item index="1" class="java.lang.String" itemvalue="blinker" />
+            <item index="2" class="java.lang.String" itemvalue="Werkzeug" />
+            <item index="3" class="java.lang.String" itemvalue="colorama" />
+            <item index="4" class="java.lang.String" itemvalue="MarkupSafe" />
+            <item index="5" class="java.lang.String" itemvalue="itsdangerous" />
+            <item index="6" class="java.lang.String" itemvalue="click" />
+            <item index="7" class="java.lang.String" itemvalue="Jinja2" />
+            <item index="8" class="java.lang.String" itemvalue="Flask" />
+            <item index="9" class="java.lang.String" itemvalue="aiogram" />
+          </list>
+        </value>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="PyPep8Inspection" enabled="true" level="WEAK WARNING" enabled_by_default="true">
+      <option name="ignoredErrors">
+        <list>
+          <option value="E225" />
+          <option value="W605" />
+          <option value="W292" />
+          <option value="E722" />
+          <option value="E303" />
+          <option value="E128" />
+          <option value="E231" />
+          <option value="E122" />
+          <option value="E127" />
+        </list>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="PyPep8NamingInspection" enabled="true" level="WEAK WARNING" enabled_by_default="true">
+      <option name="ignoredErrors">
+        <list>
+          <option value="N803" />
+          <option value="N806" />
+        </list>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="PyShadowingBuiltinsInspection" enabled="true" level="WEAK WARNING" enabled_by_default="true">
+      <option name="ignoredNames">
+        <list>
+          <option value="id" />
+        </list>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="PyUnresolvedReferencesInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredIdentifiers">
+        <list>
+          <option value="api.tests.APITestCase" />
+          <option value="accounts.models.AbstractUser" />
+          <option value="educative.users.forms.course" />
+          <option value="educative.users.views.course" />
+          <option value="blog_project.urls.drf_yasg" />
+          <option value="users.models.CustomUcer" />
+          <option value="users.models.CustomUser" />
+          <option value="pages.views.HomePageView.as_view" />
+          <option value="django.db.models.fields.related.ForeignKey.payment_amount" />
+          <option value="django.db.models.fields.related.ForeignKey.amount_spent" />
+          <option value="django.db.models.fields.related.ForeignKey.id" />
+          <option value="users.models.UserConfirmation.objects" />
+          <option value="users.models.User.id" />
+          <option value="django.db.models.fields.EmailField.lower" />
+          <option value="django.db.models.fields.related.ForeignKey.username" />
+          <option value="products.models.Category.objects" />
+          <option value="products.models.Product.objects" />
+          <option value="users.models.Metsenat.objects" />
+          <option value="products.models.Product.obects" />
+          <option value="products.models.Comment.objects" />
+          <option value="django.db.models.fields.related.ForeignKey.title" />
+          <option value="django.db.models.fields.related.ForeignKey.product" />
+          <option value="cart.models.Installments.objects" />
+          <option value="cart.models.Cart.id" />
+          <option value="django.db.models.fields.related.ForeignKey.price" />
+          <option value="cart.serializers.CartSerializer.is_installments" />
+          <option value="saved.models.Saved.objects" />
+          <option value="cart.models.Cart.objects" />
+          <option value="sales.models.Sales.objects" />
+          <option value="users.models.Student.objects" />
+          <option value="users.models.Sponsor.objects" />
+          <option value="django.contrib.sites.requests.get" />
+          <option value="django.db.models.fields.related.ForeignKey.status" />
+          <option value="telegram.models.TelegramId.objects" />
+          <option value="telegram.models.BotToken.objects" />
+          <option value="type.with_ui" />
+          <option value="str.answer" />
+        </list>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
